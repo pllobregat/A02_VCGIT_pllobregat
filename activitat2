@@ -1,4 +1,1 @@
-echo "Aquest és el primer document de prova." > document.txt
-git add document.txt
-git commit -m "Afegit document inicial"
-git push
+HELLO WORLD!
